@@ -26,7 +26,7 @@
  - <a href="equ.html" >Комплектация оборудования</a>
  - <a href="opred_ser_nomer.html" >Определение оборудования по серийному номеру</a> 
 - <a href="error.html" >Расшифровка ошибок САМ</a> 
- -  <a href="sub.html" >SUB </a>
+ - <a href="sub.html" >SUB </a>
 - <a href="pod.html" >Памятка по по оформлению документов</a>
  - <a href="noize.html" >Инструкция по поиску и устранению помех</a>
 - <a href="https://cosmos-telecom.by/files/instruction/3-1652434660-3-obshaya_instrukciya_po_nastroyke_cifrovyh_kanalov_pri_ispoljzovaniya_sa-modulya.pdf" >Настройке цифровых каналов </a>
